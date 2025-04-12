@@ -52,4 +52,3 @@ With a robust foundation in both **software development** and **cloud-native Dev
 
 ---
 
-🔥 _"Driven by curiosity. Guided by logic. Fueled by caffeine."_ ☕
